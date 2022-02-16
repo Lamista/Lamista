@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java and React.
+- 🌱 Happy Developer.
 - 📫 How to reach me: https://www.linkedin.com/in/laurastasiule/
 
 <!--
